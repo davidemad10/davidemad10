@@ -43,7 +43,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/david-emad-494a43215/" > <img align="center"
+<a href="https://www.linkedin.com/in/david-emad-494a43215/" target="blank" > <img align="center"
       src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt ="adam pithewan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/davidemad10/"><img align="center"
