@@ -40,6 +40,16 @@
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
 
+## My GitHub Stats
+
+![David Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidemad10&show_icons=true&theme=tokyonight)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidemad10&layout=compact&theme=tokyonight)
+
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
