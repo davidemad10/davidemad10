@@ -25,6 +25,7 @@
 - 👨‍💻 &nbsp;
     ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
     ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-202020?style=plastic&logo=mysql&logoColor=33F703)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)&nbsp;
